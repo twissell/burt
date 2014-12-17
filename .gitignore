@@ -1,0 +1,13 @@
+# Created by https://www.gitignore.io
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+
+### Sass ###
+.sass-cache
+*.css.map
+
